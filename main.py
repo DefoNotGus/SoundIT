@@ -1,6 +1,9 @@
+# GUSTAVO R
+# 01/01/2025
+
 import os
 from tkinter import Tk, filedialog, Button, Label, messagebox
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 
 # Function to select a video file and extract its audio
 def select_file():
